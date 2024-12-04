@@ -1,8 +1,14 @@
-Hi, I am Ishan Kashyap Hazarika, a sudent of MA Economics, Delhi School of Economics.
+Hi! I am Ishan! I am an Economics enthusiast with interest in computation, behavioural strategies and mechanisms, both theoretical and empirical aspects.
+My work portfolio includes projects in R, Python, STATA, JaavaScript, VBA and Scratch+BYOB (shoutout to life-long kindergarten!).
 
-I use and am learning R, Python, STATA, JS+CSS+HTML, Scratch, BYOB and VB. I am interested in and have been working on projects related to Economics and the behavioural sciences in general, mostly using simulations, Econometrics, Psychometrics, Causal Analysis and CGE modelling. I have also worked on experiment development and web development focusing on allowing users to engage in game theoretic experiments. On the theoretical side, I have worked on developing programs to compute equilibrium of games and general equilibrium models.
+Some of the projects here are related to my research work with others, where I am using this site simply as a file-management system :/
+But then there are projects seriously meant for here! Take a look at:
 
-Looking forward to collaborations and suggestions!
+1. NashVolve is a project where I try to develop a tool that applies evolutionary algorithms to solve general extended-form games, including possibly infinite ones!
+
+2. CasteTrace is an algorithm that corrects caste-spellings without looking at caste-spelling! Basically, I superimpose spellings on a social network of family members, and by the magic of endogamy, I can identify which spellings tend to be more connected. Then, I use a custom-designed clustering algorithm (that halts 100% of the time into a stable distribution), which works better than most standard clustering algos.
+
+3. Bazaar is a big (for the struggling student me at least!) project, still ongoing, where I am trying to develop a general-purpose platform to conduct and analyse general equilibrium experiments. It is a dice game with consumption, production (a whole non-linear Leontieff system), central banking etc. A prototype of the frontend is linked here. Theoretical investigations are still going on.
 
 Reach me at https://sites.google.com/view/ishankhazarika/!
 
