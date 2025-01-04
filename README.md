@@ -8,7 +8,7 @@ But then there are projects seriously meant for here! Take a look at:
 
 2. CasteTrace is an algorithm that corrects caste-spellings without looking at caste-spelling! Basically, I superimpose spellings on a social network of family members, and by the magic of endogamy, I can identify which spellings tend to be more connected. Then, I use a custom-designed clustering algorithm (that halts 100% of the time into a stable distribution), which works better than most standard clustering algos. Check this link for its implementation on the NFHS3 dataset: https://ikhazarika.shinyapps.io/HHAssocViewer/ 
 
-3. Bazaar is a big (for the struggling student me at least!) project, still ongoing, where I am trying to develop a general-purpose platform to conduct and analyse general equilibrium experiments. It is a dice game with consumption, production (a whole non-linear Leontieff system), central banking etc. A prototype of the frontend is linked here: https://sites.google.com/view/bazaarnew/home. Theoretical investigations are still going on.
+3. Bazaar is a big (for the struggling student me at least!) project, still ongoing, where I am trying to develop a general-purpose platform to conduct and analyse general equilibrium experiments. It is a dice game with consumption, production (a whole non-linear Leontieff system), central banking etc. A prototype of the frontend is linked here: https://kpishanh.wixsite.com/bazaarnew. Theoretical investigations are still going on.
 
 Reach me at https://sites.google.com/view/ishankhazarika/!
 
